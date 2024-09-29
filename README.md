@@ -17,12 +17,11 @@ make virtual
 
   - Linux/macOs
     ```bash
-    source .venv/bin/activate macOS
-    .venv\Scripts\activate.bat  # For Windows
+    source .venv/bin/activate
     ```
   - Windows
     ```bash
-    .venv\Scripts\activate.bat  # For Windows
+    .venv\Scripts\activate.bat
     ```
 
 - _Deactivate_
